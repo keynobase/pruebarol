@@ -7,7 +7,7 @@ galaxy_info:
   platforms:
     - name: ubuntu
       versions:
-        - all
+      - all
   galaxy_tags: ["ejemplo", "ubuntu"]
   dependencies: []
 
