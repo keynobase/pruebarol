@@ -9,7 +9,7 @@ galaxy_info:
       versions:
         - all
   galaxy_tags: ["ejemplo", "ubuntu"]
-dependencies: []
+  dependencies: []
 
 
   # If the issue tracker for your role is not on github, uncomment the
