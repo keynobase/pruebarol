@@ -4,10 +4,10 @@ galaxy_info:
   company: La bruixa pirula
   license: license (GPL-2.0-or-later, MIT, etc)
   min_ansible_version: 2.1
-#  platforms:
-#    - name: ubuntu
-#      versions:
-#      - all
+  platforms:
+    - name: ubuntu
+      versions:
+      - all
   galaxy_tags: ["ejemplo", "ubuntu"]
   dependencies: []
 
