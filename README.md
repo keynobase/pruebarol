@@ -1,7 +1,10 @@
 Role Name
 =========
 
-Rol de ejemplo del curso de Ansible-Galaxy y subido en el GitHub
+Rol d'exemple per pujar-lo al GitHub. 
+
+Creat per Carmel 
+
 
 Requirements
 ------------
