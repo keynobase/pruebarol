@@ -5,9 +5,9 @@ galaxy_info:
   license: MIT
   min_ansible_version: 2.1
   platforms:
-  - name: ubuntu
-    versions:
-    - all
+    - name: ubuntu
+      versions:
+        - all
   galaxy_tags: ["ejemplo", "ubuntu"]
 dependencies: []
 
